@@ -9,13 +9,7 @@
                 "id": 3,
                 "parentId": 1,
                 "title": "Child Node1",
-                "value": "0-0-1",
-                "children": [{
-                  "id": 4,
-                  "parentId": 2,
-                  "title": "Child Node1",
-                  "value": "0-0-3"
-                }]
+                "value": "0-0-1"
               },
               {
                 "id": 5,
