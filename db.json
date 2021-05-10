@@ -4,25 +4,25 @@
       "id": 1,
       "parentId": 0,
       "title": "Node1",
-      "value": "0-0",
+      "value": "0-0"
 },
 {
       "id": 2,
       "parentId": 1,
       "title": "Node1",
-      "value": "0-1",
+      "value": "0-1"
 },
 {
       "id": 3,
       "parentId": 0,
       "title": "Node1",
-      "value": "0-1",
+      "value": "0-1"
 },
 {
       "id": 4,
       "parentId": 3,
       "title": "Node1",
-      "value": "0-1-1",
+      "value": "0-1-1"
 }
   ]
 }
