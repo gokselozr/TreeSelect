@@ -1,20 +1,20 @@
 {
     "result": [
           {
-            id: 1,
-            title: "Node1",
-            value: "0-0",
-            children: [
+            "id": 1,
+            "title": "Node1",
+            "value": "0-0",
+            "children": [
               {
-                id: 3,
-                parentId: 1,
-                title: "Child Node1",
-                value: "0-0-1",
-                children: [{
-                  id: 4,
-                  parentId: 2,
-                  title: "Child Node1",
-                  value: "0-0-3",
+                "id": 3,
+                "parentId": 1,
+                "title": "Child Node1",
+                "value": "0-0-1",
+                "children": [{
+                  "id": 4,
+                  "parentId": 2,
+                  "title": "Child Node1",
+                  "value": "0-0-3",
                 }]
               },
               {
@@ -24,9 +24,9 @@
             ],
           },
           {
-            id: 2,
-            title: "Node2",
-            value: "0-1",
+            "id": 2,
+            "title": "Node2",
+            "value": "0-1",
           }
     ]
 }
