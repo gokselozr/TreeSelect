@@ -1,35 +1,69 @@
-{
-    "result": [
-          {
-            "id": 1,
-            "parentId": 0,
-            "title": "Node1",
-            "value": "0-0",
-            "children": [
-              {
-                "id": 3,
-                "parentId": 1,
-                "title": "Child Node1",
-                "value": "0-0-1",
-                "children": [{
-                  "id": 4,
-                  "parentId": 3,
-                  "title": "Child Node1",
-                  "value": "0-0-3"
-                }]
-              },
-              {
-                "id": 5,
-                "parentId": 1,
-                "title": "Child Node2",
-                "value": "0-0-2"
-              }]
-          },
-          {
-            "id": 2,
-            "parentId": 0,
-            "title": "Node2",
-            "value": "0-1"
-          }
+{"result":[
+  {
+    "key": "3c4ec732-21ec-683e-e4d4-0bf25a1ccf3e",
+    "icon": null,
+    "text": "Item1",
+    "selected": false,
+    "disabled": false,
+    "expand": false,
+    "children": [
+      {
+        "key": "862e1f31-d615-b9cc-257c-d6eac99efa75",
+        "icon": null,
+        "text": "Item1.1",
+        "selected": false,
+        "disabled": false,
+        "expand": false,
+        "children": []
+      },
+      {
+        "key": "c8134649-266a-164f-7ef1-1f21e05b5b71",
+        "icon": null,
+        "text": "Item1.2",
+        "selected": false,
+        "disabled": false,
+        "expand": false,
+        "children": []
+      }
     ]
+  },
+  {
+    "key": "67b049b2-c9ef-dde8-fd0e-fea64467dee1",
+    "icon": null,
+    "text": "Item2",
+    "selected": false,
+    "disabled": false,
+    "expand": false,
+    "children": []
+  },
+  {
+    "key": "67a765bd-d090-11e6-ccc1-32f7cb5defae",
+    "icon": null,
+    "text": "Item3",
+    "selected": false,
+    "disabled": false,
+    "expand": false,
+    "children": [
+      {
+        "key": "ecb0531d-1000-441f-ac30-68a136709714",
+        "icon": null,
+        "text": "Item3.1",
+        "selected": false,
+        "disabled": false,
+        "expand": false,
+        "children": [
+          {
+            "key": "db155dd6-bf66-da5e-15fe-c8e303415753",
+            "icon": null,
+            "text": "Item3.1.1",
+            "selected": false,
+            "disabled": false,
+            "expand": false,
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]
 }
