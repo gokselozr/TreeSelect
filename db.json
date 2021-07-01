@@ -34,7 +34,7 @@
     "key": "67b049b2-c9ef-dde8-fd0e-fea64467dee1",
     "icon": null,
     "text": "Item2",
-    "parentKey": "",
+    "parentKey": "test",
     "selected": false,
     "disabled": false,
     "expand": false,
