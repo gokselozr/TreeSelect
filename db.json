@@ -6,7 +6,7 @@
     "parentKey": "",
     "selected": false,
     "disabled": false,
-    "expand": false,
+    "expand": false
   },
   {
     "key": "67b049b2-c9ef-dde8-fd0e-fea64467dee1",
@@ -15,7 +15,7 @@
     "parentKey": "3c4ec732-21ec-683e-e4d4-0bf25a1ccf3e",
     "selected": false,
     "disabled": false,
-    "expand": false,
+    "expand": false
   },
   {
     "key": "67a765bd-d090-11e6-ccc1-32f7cb5defae",
@@ -24,7 +24,7 @@
     "parentKey": "",
     "selected": false,
     "disabled": false,
-    "expand": false,
+    "expand": false
   },
   {
     "key": "c8134649-266a-164f-7ef1-1f21e05b5b71",
@@ -33,7 +33,7 @@
     "parentKey": "3c4ec732-21ec-683e-e4d4-0bf25a1ccf3e",
     "selected": false,
     "disabled": false,
-    "expand": false,
+    "expand": false
    }
 ]
 }
