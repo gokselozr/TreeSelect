@@ -3,7 +3,7 @@
     "key": "1",
     "icon": null,
     "text": "Item1",
-    "parentKey": "",
+    "parentKey": null,
     "selected": false,
     "disabled": false,
     "expand": false
@@ -21,7 +21,7 @@
     "key": "3",
     "icon": null,
     "text": "Item3",
-    "parentKey": "",
+    "parentKey": null,
     "selected": false,
     "disabled": false,
     "expand": false
@@ -84,7 +84,7 @@
     "key": "10",
     "icon": null,
     "text": "Item10",
-    "parentKey": "",
+    "parentKey": null,
     "selected": false,
     "disabled": false,
     "expand": false
