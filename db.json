@@ -4,7 +4,7 @@
     "icon": null,
     "text": "Item1",
     "parentKey": null,
-    "selected": false,
+    "selected": true,
     "disabled": false,
     "expand": false
   },
@@ -31,7 +31,7 @@
     "icon": null,
     "text": "Item4",
     "parentKey": "1",
-    "selected": false,
+    "selected": true,
     "disabled": false,
     "expand": false
    },
@@ -40,7 +40,7 @@
     "icon": null,
     "text": "Item5",
     "parentKey": "2",
-    "selected": false,
+    "selected": true,
     "disabled": false,
     "expand": false
    },
@@ -76,7 +76,7 @@
     "icon": null,
     "text": "Item9",
     "parentKey": "8",
-    "selected": false,
+    "selected": true,
     "disabled": false,
     "expand": false
    },
